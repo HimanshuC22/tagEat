@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038428464658",
+    "project_id": "scontapp-65509",
+    "storage_bucket": "scontapp-65509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038428464658:android:3d26ae569fd341dc815acb",
+        "android_client_info": {
+          "package_name": "com.example.tagEat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038428464658-5thec9vjjud37vn6aeb774mgnc2728gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGyvGWS7VOLX2oNGZX9zohKtebSiWS7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038428464658-5thec9vjjud37vn6aeb774mgnc2728gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
